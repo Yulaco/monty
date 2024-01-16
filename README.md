@@ -1,8 +1,8 @@
-*C - Stacks, Queues - LIFO, FIFO*
+**C - Stacks, Queues - LIFO, FIFO**
 
 0. Push, pall
 
-	- Implement the push and pall opcodes.
+	- Implement the *push* and *pall* opcodes.
 
 1. Pint
 
